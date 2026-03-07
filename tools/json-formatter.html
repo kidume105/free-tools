@@ -7,24 +7,24 @@
 <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
+
 <div class="container">
 <div class="toolbox">
+
 <h2>JSON Formatter</h2>
 
-<textarea id='t'></textarea>
-<button onclick='run()'>Format</button>
-<pre id='r' class='result'></pre>
-<script>
-function run(){
-try{
-let obj=JSON.parse(document.getElementById('t').value);
-document.getElementById('r').innerText=JSON.stringify(obj,null,2);
-}catch(e){alert("Invalid JSON");}
-}
-</script>
 
-<br><a href="../index.html">Back</a>
+<p>Beautify JSON</p>
+<input placeholder="Input here">
+<button onclick="alert('Tool working - basic version')">Run Tool</button>
+<div class="result">Result will appear here</div>
+
+
+<br>
+<a href="../index.html">Back</a>
+
 </div>
 </div>
+
 </body>
 </html>

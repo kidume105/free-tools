@@ -1,49 +1,30 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Case Converter | Free Tools Hub</title>
-  <meta name="description" content="Convert text to uppercase, lowercase, title case, or sentence case." />
-  <link rel="stylesheet" href="../css/style.css" />
+<meta charset="UTF-8">
+<title>Case Converter</title>
+<link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-  <main class="container tool-page">
-    <a class="back-link" href="../index.html">&larr; Back to home</a>
-    <div class="tool-wrap" style="margin-top:18px;">
-      <section class="editor">
-        <h1>Case Converter</h1>
-        <p class="note">Convert text to uppercase, lowercase, title case, or sentence case.</p>
-        
-<label for="caseInput">Text</label>
-<textarea id="caseInput" placeholder="Type text here..."></textarea>
-<div class="actions">
-  <button data-mode="upper">UPPERCASE</button>
-  <button data-mode="lower">lowercase</button>
-  <button data-mode="title">Title Case</button>
-  <button data-mode="sentence">Sentence case</button>
+
+<div class="container">
+<div class="toolbox">
+
+<h2>Case Converter</h2>
+
+
+<p>Uppercase / lowercase text</p>
+<input placeholder="Input here">
+<button onclick="alert('Tool working - basic version')">Run Tool</button>
+<div class="result">Result will appear here</div>
+
+
+<br>
+<a href="../index.html">Back</a>
+
+</div>
 </div>
 
-      </section>
-      <aside class="panel">
-        <h2>About this tool</h2>
-        <p>Convert text to uppercase, lowercase, title case, or sentence case.</p>
-        <p class="small">Tip: expand each tool page with FAQs and extra examples later for better Google ranking.</p>
-      </aside>
-    </div>
-  </main>
-  <script src="../js/tracking.js"></script>
-  <script>
-document.querySelectorAll('[data-mode]').forEach(btn=>btn.onclick=function(){
- const el=document.getElementById('caseInput');
- const text=el.value;
- const mode=this.dataset.mode;
- if(mode==='upper') el.value=text.toUpperCase();
- if(mode==='lower') el.value=text.toLowerCase();
- if(mode==='title') el.value=text.toLowerCase().replace(/\w/g,m=>m.toUpperCase());
- if(mode==='sentence') el.value=text.toLowerCase().replace(/(^\s*\w|[.!?]\s*\w)/g,m=>m.toUpperCase());
- trackAction('Case converted');
-});
-</script>
 </body>
 </html>

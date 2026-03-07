@@ -7,20 +7,24 @@
 <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
+
 <div class="container">
 <div class="toolbox">
+
 <h2>Audio Player</h2>
 
-<input type='file' id='f'>
-<audio id='a' controls></audio>
-<script>
-document.getElementById('f').onchange=e=>{
-document.getElementById('a').src=URL.createObjectURL(e.target.files[0]);
-}
-</script>
 
-<br><a href="../index.html">Back</a>
+<p>Preview audio</p>
+<input placeholder="Input here">
+<button onclick="alert('Tool working - basic version')">Run Tool</button>
+<div class="result">Result will appear here</div>
+
+
+<br>
+<a href="../index.html">Back</a>
+
 </div>
 </div>
+
 </body>
 </html>

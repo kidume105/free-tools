@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "word-counter",
+    "name": "Word Counter",
+    "desc": "Count words and characters"
+  },
+  {
+    "slug": "case-converter",
+    "name": "Case Converter",
+    "desc": "Uppercase / lowercase text"
+  },
+  {
+    "slug": "remove-spaces",
+    "name": "Remove Extra Spaces",
+    "desc": "Clean text spacing"
+  },
+  {
+    "slug": "slug-generator",
+    "name": "Slug Generator",
+    "desc": "SEO URL slugs"
+  },
+  {
+    "slug": "password-generator",
+    "name": "Password Generator",
+    "desc": "Generate strong passwords"
+  },
+  {
+    "slug": "qr-generator",
+    "name": "QR Code Generator",
+    "desc": "Generate QR code"
+  },
+  {
+    "slug": "random-number",
+    "name": "Random Number",
+    "desc": "Random number generator"
+  },
+  {
+    "slug": "json-formatter",
+    "name": "JSON Formatter",
+    "desc": "Beautify JSON"
+  },
+  {
+    "slug": "base64",
+    "name": "Base64 Encoder",
+    "desc": "Encode text Base64"
+  },
+  {
+    "slug": "url-encoder",
+    "name": "URL Encoder",
+    "desc": "Encode URLs"
+  },
+  {
+    "slug": "age-calculator",
+    "name": "Age Calculator",
+    "desc": "Calculate age"
+  },
+  {
+    "slug": "bmi-calculator",
+    "name": "BMI Calculator",
+    "desc": "Body mass index"
+  },
+  {
+    "slug": "percentage-calculator",
+    "name": "Percentage Calculator",
+    "desc": "Calculate percent"
+  },
+  {
+    "slug": "discount-calculator",
+    "name": "Discount Calculator",
+    "desc": "Sale price tool"
+  },
+  {
+    "slug": "loan-calculator",
+    "name": "Loan Calculator",
+    "desc": "Monthly payment"
+  },
+  {
+    "slug": "image-base64",
+    "name": "Image \u2192 Base64",
+    "desc": "Convert image to Base64"
+  },
+  {
+    "slug": "image-resizer",
+    "name": "Image Resizer",
+    "desc": "Resize images"
+  },
+  {
+    "slug": "image-compressor",
+    "name": "Image Compressor",
+    "desc": "Reduce image size"
+  },
+  {
+    "slug": "image-cropper",
+    "name": "Image Cropper",
+    "desc": "Crop image center"
+  },
+  {
+    "slug": "color-picker",
+    "name": "Color Picker",
+    "desc": "Pick color from image"
+  },
+  {
+    "slug": "audio-player",
+    "name": "Audio Player",
+    "desc": "Preview audio"
+  },
+  {
+    "slug": "audio-info",
+    "name": "Audio Metadata",
+    "desc": "Audio file info"
+  },
+  {
+    "slug": "tone-generator",
+    "name": "Tone Generator",
+    "desc": "Generate tone"
+  },
+  {
+    "slug": "video-info",
+    "name": "Video Metadata",
+    "desc": "Video info"
+  },
+  {
+    "slug": "video-thumbnail",
+    "name": "Video Thumbnail",
+    "desc": "Capture frame"
+  }
+]
