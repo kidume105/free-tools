@@ -6,7 +6,7 @@
     "icon": "\ud83d\udcdd",
     "popular": true,
     "title": "Word Counter \u2013 Count Words and Characters Online Free",
-    "desc": "Free online word counter tool to count words, characters, sentences and paragraphs instantly."
+    "desc": "Count words, characters, sentences, paragraphs and reading time instantly."
   },
   {
     "slug": "case-converter",
@@ -174,7 +174,7 @@
     "slug": "video-thumbnail-capture",
     "name": "Video Thumbnail Capture",
     "cat": "Media",
-    "icon": "\ud83d\uddbc\ufe0f",
+    "icon": "\ud83c\udf9e\ufe0f",
     "popular": false,
     "title": "Video Thumbnail Capture \u2013 Capture Frame From Video",
     "desc": "Capture a frame from video and download it as an image."
