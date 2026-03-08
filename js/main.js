@@ -7,7 +7,7 @@ function render(items){
  const grid=document.getElementById('toolsGrid'); grid.innerHTML='';
  items.forEach(t=>{
   const el=document.createElement('article'); el.className='card';
-  el.innerHTML=`<div class="icon">${t.icon}</div><h3>${t.name}</h3><p>${t.cat} tool</p><span class="chip">${t.cat}</span><br><a class="open" href="tools/${t.slug}.html">Open Tool</a>`;
+  el.innerHTML=`<div class="icon">${t.icon}</div><h3>${t.name}</h3><p>${t.cat} tool</p><div class="chips"><span class="chip">${t.cat}</span>${t.popular?'<span class="chip popular">Popular</span>':''}</div><a class="open" href="tools/${t.slug}.html">Open Tool</a>`;
   grid.appendChild(el);
  });
  document.getElementById('count').textContent=items.length;
@@ -21,4 +21,13 @@ function applyFilters(cat='All'){
  });
  render(filtered);
 }
-document.addEventListener('DOMContentLoaded',loadTools);
+function toggleTheme(){
+ const current=document.documentElement.getAttribute('data-theme');
+ const next=current==='dark'?'light':'dark';
+ document.documentElement.setAttribute('data-theme',next);
+ localStorage.setItem('smarttools-theme',next);
+}
+document.addEventListener('DOMContentLoaded',()=>{
+ document.documentElement.setAttribute('data-theme', localStorage.getItem('smarttools-theme') || 'light');
+ loadTools();
+});

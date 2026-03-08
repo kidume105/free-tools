@@ -3,120 +3,175 @@
     "slug": "word-counter",
     "name": "Word Counter",
     "cat": "Text",
-    "icon": "\ud83d\udcdd"
+    "icon": "\ud83d\udcdd",
+    "popular": true
   },
   {
     "slug": "case-converter",
     "name": "Case Converter",
     "cat": "Text",
-    "icon": "\ud83d\udd24"
+    "icon": "\ud83d\udd24",
+    "popular": false
   },
   {
     "slug": "slug-generator",
     "name": "Slug Generator",
     "cat": "Text",
-    "icon": "\ud83d\udd17"
+    "icon": "\ud83d\udd17",
+    "popular": false
   },
   {
     "slug": "password-generator",
     "name": "Password Generator",
     "cat": "Utility",
-    "icon": "\ud83d\udd10"
+    "icon": "\ud83d\udd10",
+    "popular": true
   },
   {
     "slug": "qr-code-generator",
     "name": "QR Code Generator",
     "cat": "Utility",
-    "icon": "\ud83d\udcf1"
+    "icon": "\ud83d\udcf1",
+    "popular": true
+  },
+  {
+    "slug": "random-number-generator",
+    "name": "Random Number Generator",
+    "cat": "Utility",
+    "icon": "\ud83c\udfb2",
+    "popular": false
   },
   {
     "slug": "json-formatter",
     "name": "JSON Formatter",
     "cat": "Developer",
-    "icon": "\ud83e\udde9"
+    "icon": "\ud83e\udde9",
+    "popular": true
   },
   {
-    "slug": "base64-tool",
-    "name": "Base64 Encoder / Decoder",
+    "slug": "base64-encoder-decoder",
+    "name": "Base64 Encoder Decoder",
     "cat": "Developer",
-    "icon": "\ud83e\uddec"
+    "icon": "\ud83e\uddec",
+    "popular": false
   },
   {
-    "slug": "url-encoder",
-    "name": "URL Encoder / Decoder",
+    "slug": "url-encoder-decoder",
+    "name": "URL Encoder Decoder",
     "cat": "Developer",
-    "icon": "\ud83c\udf10"
+    "icon": "\ud83c\udf10",
+    "popular": false
+  },
+  {
+    "slug": "meta-tag-generator",
+    "name": "Meta Tag Generator",
+    "cat": "SEO",
+    "icon": "\ud83c\udff7\ufe0f",
+    "popular": false
   },
   {
     "slug": "age-calculator",
     "name": "Age Calculator",
     "cat": "Calculator",
-    "icon": "\ud83c\udf82"
+    "icon": "\ud83c\udf82",
+    "popular": false
+  },
+  {
+    "slug": "bmi-calculator",
+    "name": "BMI Calculator",
+    "cat": "Calculator",
+    "icon": "\u2696\ufe0f",
+    "popular": false
   },
   {
     "slug": "loan-calculator",
     "name": "Loan Calculator",
     "cat": "Calculator",
-    "icon": "\ud83d\udcb3"
+    "icon": "\ud83d\udcb3",
+    "popular": false
   },
   {
     "slug": "image-compressor",
     "name": "Image Compressor",
     "cat": "Image",
-    "icon": "\ud83d\uddbc\ufe0f"
+    "icon": "\ud83d\uddbc\ufe0f",
+    "popular": true
   },
   {
     "slug": "image-resizer",
     "name": "Image Resizer",
     "cat": "Image",
-    "icon": "\ud83d\udcd0"
+    "icon": "\ud83d\udcd0",
+    "popular": true
   },
   {
     "slug": "image-cropper",
     "name": "Image Cropper",
     "cat": "Image",
-    "icon": "\u2702\ufe0f"
+    "icon": "\u2702\ufe0f",
+    "popular": false
   },
   {
-    "slug": "color-picker",
+    "slug": "color-picker-from-image",
     "name": "Color Picker From Image",
     "cat": "Image",
-    "icon": "\ud83c\udfa8"
+    "icon": "\ud83c\udfa8",
+    "popular": false
   },
   {
-    "slug": "youtube-thumbnail",
+    "slug": "youtube-thumbnail-downloader",
     "name": "YouTube Thumbnail Downloader",
     "cat": "Media",
-    "icon": "\u25b6\ufe0f"
+    "icon": "\u25b6\ufe0f",
+    "popular": true
+  },
+  {
+    "slug": "video-metadata-viewer",
+    "name": "Video Metadata Viewer",
+    "cat": "Media",
+    "icon": "\ud83c\udfac",
+    "popular": false
+  },
+  {
+    "slug": "video-thumbnail-capture",
+    "name": "Video Thumbnail Capture",
+    "cat": "Media",
+    "icon": "\ud83d\uddbc\ufe0f",
+    "popular": false
   },
   {
     "slug": "pdf-merge",
     "name": "Merge PDF",
     "cat": "PDF",
-    "icon": "\ud83d\udcc4"
+    "icon": "\ud83d\udcc4",
+    "popular": true
   },
   {
     "slug": "pdf-split",
     "name": "Split PDF",
     "cat": "PDF",
-    "icon": "\ud83d\udcda"
+    "icon": "\ud83d\udcda",
+    "popular": true
   },
   {
     "slug": "pdf-page-counter",
     "name": "PDF Page Counter",
     "cat": "PDF",
-    "icon": "\ud83d\udd22"
+    "icon": "\ud83d\udd22",
+    "popular": false
   },
   {
     "slug": "docx-text-extractor",
     "name": "DOCX Text Extractor",
     "cat": "Document",
-    "icon": "\ud83d\udcd8"
+    "icon": "\ud83d\udcd8",
+    "popular": false
   },
   {
     "slug": "invoice-generator",
     "name": "Invoice Generator",
     "cat": "Business",
-    "icon": "\ud83e\uddfe"
+    "icon": "\ud83e\uddfe",
+    "popular": false
   }
 ]
