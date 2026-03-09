@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rich-tools.github.io/free-tools/sitemap.xml

@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "word-counter",
+    "name": "Word Counter",
+    "cat": "Text",
+    "icon": "fa-solid fa-file-lines",
+    "title": "Word Counter \u2013 Count Words and Characters Online Free",
+    "desc": "Count words, characters, sentences, paragraphs and reading time instantly."
+  },
+  {
+    "slug": "case-converter",
+    "name": "Case Converter",
+    "cat": "Text",
+    "icon": "fa-solid fa-font",
+    "title": "Case Converter \u2013 Uppercase Lowercase Title Case Tool",
+    "desc": "Convert text to uppercase, lowercase, title case and sentence case."
+  },
+  {
+    "slug": "slug-generator",
+    "name": "Slug Generator",
+    "cat": "Text",
+    "icon": "fa-solid fa-link",
+    "title": "Slug Generator \u2013 Create SEO Friendly URLs Online",
+    "desc": "Create SEO friendly slugs from blog titles and headings."
+  },
+  {
+    "slug": "password-generator",
+    "name": "Password Generator",
+    "cat": "Utility",
+    "icon": "fa-solid fa-key",
+    "title": "Password Generator \u2013 Generate Strong Passwords Free",
+    "desc": "Generate secure passwords with copy and download."
+  },
+  {
+    "slug": "qr-code-generator",
+    "name": "QR Code Generator",
+    "cat": "Utility",
+    "icon": "fa-solid fa-qrcode",
+    "title": "QR Code Generator \u2013 Create QR Codes Online Free",
+    "desc": "Create QR codes online from links, text or any URL."
+  },
+  {
+    "slug": "random-number-generator",
+    "name": "Random Number Generator",
+    "cat": "Utility",
+    "icon": "fa-solid fa-dice",
+    "title": "Random Number Generator \u2013 Generate Random Numbers Online",
+    "desc": "Generate random numbers in any range."
+  },
+  {
+    "slug": "json-formatter",
+    "name": "JSON Formatter",
+    "cat": "Developer",
+    "icon": "fa-solid fa-code",
+    "title": "JSON Formatter \u2013 Beautify and Validate JSON Online",
+    "desc": "Beautify, validate and minify JSON quickly."
+  },
+  {
+    "slug": "base64-encoder-decoder",
+    "name": "Base64 Encoder Decoder",
+    "cat": "Developer",
+    "icon": "fa-solid fa-file-code",
+    "title": "Base64 Encoder Decoder \u2013 Encode and Decode Base64",
+    "desc": "Encode and decode Base64 text online."
+  },
+  {
+    "slug": "url-encoder-decoder",
+    "name": "URL Encoder Decoder",
+    "cat": "Developer",
+    "icon": "fa-solid fa-globe",
+    "title": "URL Encoder Decoder \u2013 Encode and Decode URLs Online",
+    "desc": "Encode and decode URLs quickly online."
+  },
+  {
+    "slug": "meta-tag-generator",
+    "name": "Meta Tag Generator",
+    "cat": "SEO",
+    "icon": "fa-solid fa-tags",
+    "title": "Meta Tag Generator \u2013 Generate SEO Meta Tags Free",
+    "desc": "Generate title, description and keywords tags."
+  },
+  {
+    "slug": "age-calculator",
+    "name": "Age Calculator",
+    "cat": "Calculator",
+    "icon": "fa-solid fa-cake-candles",
+    "title": "Age Calculator \u2013 Calculate Age Online Free",
+    "desc": "Calculate age online from date of birth."
+  },
+  {
+    "slug": "bmi-calculator",
+    "name": "BMI Calculator",
+    "cat": "Calculator",
+    "icon": "fa-solid fa-scale-balanced",
+    "title": "BMI Calculator \u2013 Body Mass Index Calculator Online",
+    "desc": "Calculate body mass index online."
+  },
+  {
+    "slug": "loan-calculator",
+    "name": "Loan Calculator",
+    "cat": "Calculator",
+    "icon": "fa-solid fa-money-bill-wave",
+    "title": "Loan Calculator \u2013 Monthly Loan Repayment Calculator",
+    "desc": "Estimate monthly loan payments and total repayment."
+  },
+  {
+    "slug": "image-compressor",
+    "name": "Image Compressor",
+    "cat": "Image",
+    "icon": "fa-solid fa-image",
+    "title": "Image Compressor \u2013 Reduce Image Size Online Free",
+    "desc": "Compress JPG and PNG images online."
+  },
+  {
+    "slug": "image-resizer",
+    "name": "Image Resizer",
+    "cat": "Image",
+    "icon": "fa-solid fa-expand",
+    "title": "Image Resizer \u2013 Resize Images Online Free",
+    "desc": "Resize images online and download the result."
+  },
+  {
+    "slug": "image-cropper",
+    "name": "Image Cropper",
+    "cat": "Image",
+    "icon": "fa-solid fa-crop-simple",
+    "title": "Image Cropper \u2013 Crop Images Online Free",
+    "desc": "Crop images online and download the result."
+  },
+  {
+    "slug": "color-picker-from-image",
+    "name": "Color Picker From Image",
+    "cat": "Image",
+    "icon": "fa-solid fa-eye-dropper",
+    "title": "Color Picker From Image \u2013 Extract HEX and RGB Colors",
+    "desc": "Extract HEX and RGB colors from images online."
+  },
+  {
+    "slug": "youtube-thumbnail-downloader",
+    "name": "YouTube Thumbnail Downloader",
+    "cat": "Media",
+    "icon": "fa-brands fa-youtube",
+    "title": "YouTube Thumbnail Downloader \u2013 Download YouTube Thumbnails",
+    "desc": "Get thumbnail images from public YouTube video URLs."
+  },
+  {
+    "slug": "video-metadata-viewer",
+    "name": "Video Metadata Viewer",
+    "cat": "Media",
+    "icon": "fa-solid fa-video",
+    "title": "Video Metadata Viewer \u2013 Check Video Duration and Resolution",
+    "desc": "Check video duration, size and resolution online."
+  },
+  {
+    "slug": "video-thumbnail-capture",
+    "name": "Video Thumbnail Capture",
+    "cat": "Media",
+    "icon": "fa-solid fa-film",
+    "title": "Video Thumbnail Capture \u2013 Capture Frame From Video",
+    "desc": "Capture a frame from video and download it as an image."
+  },
+  {
+    "slug": "pdf-merge",
+    "name": "Merge PDF",
+    "cat": "PDF",
+    "icon": "fa-solid fa-file-pdf",
+    "title": "Merge PDF Online \u2013 Combine PDF Files Free",
+    "desc": "Merge multiple PDF files into one document online."
+  },
+  {
+    "slug": "pdf-split",
+    "name": "Split PDF",
+    "cat": "PDF",
+    "icon": "fa-solid fa-file-export",
+    "title": "Split PDF Online \u2013 Extract PDF Pages Free",
+    "desc": "Split PDF files and extract selected pages."
+  },
+  {
+    "slug": "pdf-page-counter",
+    "name": "PDF Page Counter",
+    "cat": "PDF",
+    "icon": "fa-solid fa-list-ol",
+    "title": "PDF Page Counter \u2013 Count Pages in PDF Online",
+    "desc": "Count total pages in a PDF file online."
+  },
+  {
+    "slug": "docx-text-extractor",
+    "name": "DOCX Text Extractor",
+    "cat": "Document",
+    "icon": "fa-solid fa-file-word",
+    "title": "DOCX Text Extractor \u2013 Extract Text From Word Files",
+    "desc": "Extract text from DOCX files online."
+  },
+  {
+    "slug": "invoice-generator",
+    "name": "Invoice Generator",
+    "cat": "Business",
+    "icon": "fa-solid fa-file-invoice-dollar",
+    "title": "Invoice Generator \u2013 Create Simple Invoices Online",
+    "desc": "Create simple invoices online for free."
+  }
+]
